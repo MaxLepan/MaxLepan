@@ -1,4 +1,4 @@
-# Prénom: Max, NOM: LEPAN
+## Max LEPAN
 
 Étudiant en première année BDDI à l'école-by-CCI en partenariat avec les Gobelins Paris,
 Je recherche un stage puis une alternance qui me permettront d'appliquer tout ce que j'ai appris 
@@ -10,3 +10,4 @@ au cours de ma première année !
 <!-- on détaillera plus tard-->
 ## Mes hobbies
 J'aime le chocolat.
+© Max LEPAN - 2021
