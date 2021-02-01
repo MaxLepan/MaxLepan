@@ -1,3 +1,5 @@
+! (https://htmlcolorcodes.com/assets/images/html-color-codes-color-tutorials-hero.jpg)
+
 ## Max LEPAN
 
 Étudiant en première année BDDI à l'école-by-CCI en partenariat avec les Gobelins Paris,
@@ -8,11 +10,6 @@ au cours de ma première année !
 ## Mes études
 - Bachelor BDDI - 2020-2023
 <!-- on détaillera plus tard-->
-<<<<<<< HEAD
-## Mes loisirs
-J'aime le chocolat.
-=======
 ## Mes hobbies
-J'aime les jeux-vidéo, l'escalade, les nouvelles technologies et la conquête de l'espace.
->>>>>>> hobbies
+J'aime les jeux-vidéo, la musique, l'escalade, les nouvelles technologies et la conquête de l'espace.
 © Max LEPAN - 2021
