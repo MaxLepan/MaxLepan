@@ -9,5 +9,5 @@ au cours de ma première année !
 - Bachelor BDDI - 2020-2023
 <!-- on détaillera plus tard-->
 ## Mes hobbies
-J'aime le chocolat.
+J'aime les jeux-vidéo, l'escalade, les nouvelles technologies et la conquête de l'espace.
 © Max LEPAN - 2021
