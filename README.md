@@ -8,6 +8,6 @@ au cours de ma première année !
 ## Mes études
 - Bachelor BDDI - 2020-2023
 <!-- on détaillera plus tard-->
-## Mes hobbies
+## Mes loisirs
 J'aime le chocolat.
 © Max LEPAN - 2021
