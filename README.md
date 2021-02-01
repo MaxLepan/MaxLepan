@@ -1,4 +1,4 @@
-![](https://htmlcolorcodes.com/assets/images/html-color-codes-color-tutorials-hero.jpg)
+<!--![](https://htmlcolorcodes.com/assets/images/html-color-codes-color-tutorials-hero.jpg)-->
 
 ## Max LEPAN
 
@@ -9,6 +9,7 @@ au cours de ma première année !
 <!-- on détaillera plus tard-->
 ## Mes études
 - Bachelor BDDI - 2020-2023
+- Baccalauréat Scientifique avec option Informatique et Sciences du Numérique
 <!-- on détaillera plus tard-->
 ## Mes hobbies
 J'aime les jeux-vidéo, la musique, l'escalade, les nouvelles technologies et la conquête de l'espace.
