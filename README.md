@@ -2,13 +2,13 @@
 
 ## Max LEPAN
 
-Étudiant en première année BDDI à l'école-by-CCI en partenariat avec les Gobelins Paris,
-Je recherche une alternance qui me permettra d'appliquer tout ce que j'ai appris 
-au cours de ma première année !
+Étudiant en deuxième année BDDI à l'école-by-CCI en partenariat avec les Gobelins Paris
+
 ## Mes expériences
 <!-- on détaillera plus tard-->
 - Travail d'été à Tolvent, 2018 et 2019
 - Militaire réserviste au 27ème Bataillon de Chasseurs Alpins
+- Stage de 6 semaines chez Aboutgoods Company
 ## Mes études
 - Bachelor BDDI - 2020-2023
 - Baccalauréat Scientifique avec option Informatique et Sciences du Numérique
