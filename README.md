@@ -1,6 +1,6 @@
 # Hello there ! ᵍᵉⁿᵉʳᵃˡ ᵏᵉⁿᵒᵇᶦ ᵎ
 
-2nd year student in a Web and Mobile Developer Bachelor at L'École des Gobelins in Annecy
+2nd year student in a Web and Mobile Developer Bachelor at L'École des Gobelins in Annecy and on block release at Aboutgoods Company !
 
 ## My experiences
 
