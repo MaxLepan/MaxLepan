@@ -1,19 +1,20 @@
-<!--![](https://htmlcolorcodes.com/assets/images/html-color-codes-color-tutorials-hero.jpg)-->
+# Hello there ! ᵍᵉⁿᵉʳᵃˡ ᵏᵉⁿᵒᵇᶦ ᵎ
 
-## Max LEPAN
+2nd year student in a Web and Mobile Developer Bachelor at L'École des Gobelins in Annecy
 
-Étudiant en deuxième année BDDI à l'école-by-CCI en partenariat avec les Gobelins Paris
+## My experiences
 
-## Mes expériences
-<!-- on détaillera plus tard-->
-- Travail d'été à Tolvent, 2018 et 2019
-- Militaire réserviste au 27ème Bataillon de Chasseurs Alpins
-- Stage de 6 semaines chez Aboutgoods Company
-## Mes études
+- Summer job at Tolvent, 2018 and 2019
+- Reservist at the 27ème Bataillon de Chasseurs Alpins
+- 6 weeks internship at Aboutgoods Company
+
+## My degrees
+
 - Bachelor BDDI - 2020-2023
-- Baccalauréat Scientifique avec option Informatique et Sciences du Numérique
-<!-- on détaillera plus tard-->
-## Mes hobbies
-J'aime les jeux-vidéo, la musique, l'escalade, les nouvelles technologies et la conquête de l'espace.
+- High School degree with Scientific and Computer Science options
+
+## My hobbies
+
+I like video games, music (especially rap), rock climbing, new technologies and space conquest.
 
 © Max LEPAN - 2021
