@@ -17,4 +17,4 @@
 
 I like video games, music (especially rap), rock climbing, new technologies and space conquest.
 
-© Max LEPAN - 2021
+© Max LEPAN - 2022
