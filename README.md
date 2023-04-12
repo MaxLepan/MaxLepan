@@ -1,12 +1,14 @@
 # Hello there ! ᵍᵉⁿᵉʳᵃˡ ᵏᵉⁿᵒᵇᶦ ᵎ
 
-2nd year student in a Web and Mobile Developer Bachelor at L'École des Gobelins in Annecy and on block release at Aboutgoods Company !
+3rd year student in a Web and Mobile Developer Bachelor at L'École des Gobelins in Annecy and developper at Sensei France !
 
 ## My experiences
 
 - Summer job at Tolvent, 2018 and 2019
-- Reservist at the 27ème Bataillon de Chasseurs Alpins
+- Former Reservist at the 27ème Bataillon de Chasseurs Alpins
 - 6 weeks internship at Aboutgoods Company
+- 1 year at Aboutgoods Company as a working student
+- Currently at Sensei France as a working student
 
 ## My degrees
 
@@ -17,4 +19,4 @@
 
 I like video games, music (especially rap), rock climbing, new technologies and space conquest.
 
-© Max LEPAN - 2022
+© Max LEPAN - 2023
