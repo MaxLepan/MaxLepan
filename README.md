@@ -5,7 +5,7 @@
 ## My experiences
 
 - Summer job at Tolvent, 2018 and 2019
-- Reservist at the 27ème Bataillon de Chasseurs Alpins between 2021 and 2023
+- Former reservist at the 27ème Bataillon de Chasseurs Alpins, between 2021 and 2023
 - 6 weeks internship at Aboutgoods Company
 - 1 year at Aboutgoods Company as a working student
 - 1 year at Sensei France as a working student
@@ -19,6 +19,6 @@
 
 ## My hobbies
 
-I like video games, music (especially rap), rock climbing, new technologies and space conquest.
+I like hiking, camping in the nature or on a mountain, video games, music (especially rap), rock climbing, new technologies and space conquest.
 
 © Max LEPAN - 2023
