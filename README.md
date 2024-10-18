@@ -1,6 +1,6 @@
 # Hello there ! ᵍᵉⁿᵉʳᵃˡ ᵏᵉⁿᵒᵇᶦ ᵎ
 
-1st year student in a Web and Mobile Developer Master at L'École des Gobelins in Annecy and developper !
+2nd year student in a Web and Mobile Developer Master at L'École des Gobelins in Annecy and developper !
 
 ## My experiences
 
