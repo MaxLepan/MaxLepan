@@ -21,4 +21,4 @@
 
 I like hiking, camping in the nature or on a mountain, video games, music (especially rap), rock climbing, new technologies and space conquest.
 
-© Max LEPAN - 2023
+© Max LEPAN - 2025
