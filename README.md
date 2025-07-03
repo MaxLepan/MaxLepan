@@ -9,7 +9,7 @@
 - 6 weeks internship at Aboutgoods Company
 - 1 year at Aboutgoods Company as a working student
 - 1 year at Sensei France as a working student
-- Currently at Web Hors Piste as a working student
+- 2 years at Web Hors Piste as a working student
 
 ## My degrees
 
